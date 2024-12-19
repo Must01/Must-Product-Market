@@ -4,6 +4,17 @@ A fully functional product marketplace built using the **MERN stack** (MongoDB, 
 
 ---
 
+### website :
+Home Page : 
+
+![home page](https://github.com/user-attachments/assets/ba32819e-18f8-4e7b-96d2-38269920d978)
+
+Create Product page : 
+
+![CREATE PRODUCT PAGE](https://github.com/user-attachments/assets/ec8e3216-6daf-4e78-b6e3-e3087ef21e23)
+
+---
+
 ## Features
 
 - **Frontend**: Built with React, utilizing Chakra UI for a sleek and responsive design.
@@ -117,6 +128,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Made with ❤️ by **Mustapha Bouddahr**.
 
-```
-
-```
