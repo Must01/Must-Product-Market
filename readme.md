@@ -13,6 +13,10 @@ Create Product page :
 
 ![CREATE PRODUCT PAGE](https://github.com/user-attachments/assets/ec8e3216-6daf-4e78-b6e3-e3087ef21e23)
 
+Edit a Product : 
+
+![image](https://github.com/user-attachments/assets/65b3b994-e9cb-4a35-ba92-f599c7b79dc4)
+
 ---
 
 ## Features
