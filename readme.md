@@ -11,7 +11,8 @@ Home Page :
 
 Create Product page : 
 
-![CREATE PRODUCT PAGE](https://github.com/user-attachments/assets/ec8e3216-6daf-4e78-b6e3-e3087ef21e23)
+![image](https://github.com/user-attachments/assets/fc56a2c5-37e9-4159-8780-d3132d5bcb34)
+
 
 Edit a Product : 
 
