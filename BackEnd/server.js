@@ -22,7 +22,7 @@ if (process.env.NODE_ENV === "production") {
   // any route that doesn't start with /api will be redirected to index.html
   app.get("*", (req, res) => {
     // send index.html file
-    res.sendFile(path.resolve(__dirname, "FrontEnd", "build", "index.html"));
+    res.sendFile(path.resolve(__dirname, "FrontEnd", "dist", "index.html"));
   });
 }
 
