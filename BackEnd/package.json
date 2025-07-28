@@ -1,0 +1,14 @@
+{
+  "name": "mern_product_market",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "postinstall": "npm ci --prefix frontend && npm ci --prefix BackEnd",
+    "build": "npm run build --prefix frontend",
+    "start": "npm start --prefix BackEnd",
+    "dev": "npm run dev --prefix BackEnd"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
