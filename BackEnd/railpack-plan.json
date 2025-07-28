@@ -1,11 +1,5 @@
-// railpack-plan.json
 {
-  // Skip the root-level CI entirely
   "install": "npm install --omit=dev --prefix BackEnd",
-
-  // (Optional) If you ever need to build something in BackEnd, you could put it here.
   "build":   "",
-
-  // Start your server from BackEnd
   "deploy":  "npm start --prefix BackEnd"
 }
