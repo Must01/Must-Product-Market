@@ -1,5 +1,5 @@
 {
-  "install": "npm ci",
-  "build":   "npm install --prefix BackEnd",
+  "install": "npm install --omit=dev",
+  "build":   "npm install --omit=dev --prefix BackEnd",
   "deploy":  "npm start --prefix BackEnd"
 }
