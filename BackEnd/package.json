@@ -6,8 +6,8 @@
   "scripts": {
     "postinstall": "npm ci --prefix frontend && npm ci --prefix BackEnd",
     "build": "npm run build --prefix frontend",
-    "start": "npm start --prefix BackEnd",
-    "dev": "npm run dev --prefix BackEnd"
+    "start": "cross-env NODE_ENV=production node server.js",
+    "dev":   "cross-env NODE_ENV=development nodemon server.js"
   },
   "dependencies": {},
   "devDependencies": {}
