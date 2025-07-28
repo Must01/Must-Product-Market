@@ -1,0 +1,5 @@
+{
+  "install": "npm ci",
+  "build":   "npm install --prefix BackEnd",
+  "deploy":  "npm start --prefix BackEnd"
+}
